@@ -1,5 +1,3 @@
-
-
 function Selection_sort()
 {
     //Setting Time complexities
@@ -53,4 +51,3 @@ function Selection_sort()
 
     enable_buttons();
 }
-
