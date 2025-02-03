@@ -1,4 +1,4 @@
-A web app visualizing sorting algorithms with the following implementations:
+**A web app visualizing sorting algorithms with the following implementations:**
 
 - Bubble Sort
 - Selection Sort
@@ -7,7 +7,8 @@ A web app visualizing sorting algorithms with the following implementations:
 - Quick Sort
 - Heap Sort
 
-Key Features:
+**Key Features:**
+
 - Step-by-step colored representation:
   - Blue: Default
   - Yellow: Being compared
@@ -19,4 +20,4 @@ Key Features:
   - Random data generation
 - Displays time and space complexity of the algorithms.
 
-Explore the live version: [Sorting Visualizer](https://kethantummala.github.io/Sorting_Visualizer/)
+Explore the live version: [Sorting Visualizer](https://akashrohit.github.io/Sorting-Visualizer/)
