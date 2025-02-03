@@ -1,5 +1,3 @@
-
-
 function Insertion()
 {
     //Setting Time complexities
@@ -50,4 +48,3 @@ function Insertion()
 
     enable_buttons();
 }
-
